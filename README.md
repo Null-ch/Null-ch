@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I`m Alexandr 👋</h1>
 <h3 align="center">Junior PHP developer</h3>
 
-Skills: PHP, SQL, GIT, CSS
+Skills: PHP, SQL, GIT, API, HTML, CSS
  
 - 🌱 I’m currently learning Laravel, PHP, VUE.JS, PDO 
 - 📫 How to reach me: telegram: @rknbst 
