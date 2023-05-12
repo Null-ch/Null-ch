@@ -3,7 +3,7 @@
 
 Skills: PHP, SQL, GIT, API, HTML, CSS
  
-- 🌱 I’m currently learning Laravel, PHP, VUE.JS, PDO 
+- 🌱 I’m currently learning Laravel, PHP, VUE.JS
 - 📫 How to reach me: telegram: @rknbst 
 
 
