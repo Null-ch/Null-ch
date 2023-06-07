@@ -4,7 +4,7 @@
 Skills: PHP, SQL, GIT, API, HTML, CSS
  
 - 🌱 I’m currently learning Laravel, PHP, VUE.JS
-- 📫 How to reach me: telegram: @rknbst 
+- 📫 Сontact with me: telegram: @rknbst 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Null-ch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a_mendicant/)  
